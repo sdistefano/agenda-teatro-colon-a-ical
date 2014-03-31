@@ -1,0 +1,1293 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:El Lago de los Cisnes (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140305T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140305T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-lago-de-
+ los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Lago de los Cisnes (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140306T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140306T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-lago-de-
+ los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Lago de los Cisnes (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140307T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140307T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-lago-de-
+ los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Lago de los Cisnes (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140308T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140308T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-lago-de-
+ los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Lago de los Cisnes (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140309T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140309T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-lago-de-
+ los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 1 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140313T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140313T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nonsense Ensamble Vocal de Solistas (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140313T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140313T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/nonsense-ensamble-vocal-de-solistas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nonsense Ensamble Vocal de Solistas (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140314T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140314T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/nonsense-ensamble-vocal-de-solistas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Vendedora de fósforos (Colón Contemporáneo)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140315T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140315T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/colon-contemporane
+ o/la-vendedora-de-fosforos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Camerata Bariloche (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140316T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140316T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/camerata-bariloche
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Vendedora de fósforos (Colón Contemporáneo)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140316T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140316T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/colon-contemporane
+ o/la-vendedora-de-fosforos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 2 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140320T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140320T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calígula (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140401T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140401T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/caligula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 3 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140403T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140403T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calígula (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140404T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140404T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/caligula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MusicaQuantica Voces de Cámara (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140406T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140406T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/musicaquantica-voces-de-camara
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calígula (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140406T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140406T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/caligula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calígula (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140408T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140408T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/caligula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 4 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140410T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140410T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veladas Fantômas (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140410T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140410T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/velada-fantomas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veladas Fantômas (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140411T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140411T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/velada-fantomas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veladas Fantômas (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140412T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140412T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/velada-fantomas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veladas Fantômas (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140413T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140413T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/velada-fantomas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 5 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140416T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140416T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kristine Bara\, viola e Iván Rutkauskas\, piano (Intérpretes Arg
+ entinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140420T230000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140421T010000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/kristine-bara-viola-e-ivan-rutkauskas-piano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta de Cámara de Múnich (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140421T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140421T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/kristine-bara-viola-e-ivan-rutkauskas-piano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta de Cámara de Múnich (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140422T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140422T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/kristine-bara-viola-e-ivan-rutkauskas-piano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Integrales (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140424T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140424T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/festival-integrales
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Integrales (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140425T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140425T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/festival-integrales
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Integrales (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140426T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140426T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/festival-integrales
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray Perahia\, piano (N.Harmonia)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140428T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140428T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/festival-integrales
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El barbero de Sevilla (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140429T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140429T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/el-barbero-d
+ e-sevilla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El barbero de Sevilla (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140430T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140430T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/el-barbero-d
+ e-sevilla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El barbero de Sevilla (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140503T083000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140503T103000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/el-barbero-d
+ e-sevilla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El barbero de Sevilla (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140504T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140504T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/el-barbero-d
+ e-sevilla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trío Clásico de Buenos Aires (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140504T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140504T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/trio-clasico-de-buenos-aires
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El barbero de Sevilla (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140506T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140506T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/el-barbero-d
+ e-sevilla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta Sinfónica de la Radio de Baviera (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140507T200000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140507T220000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/el-barbero-d
+ e-sevilla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta Sinfónica de la Radio de Baviera (Abono Estelar)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140508T200000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140508T220000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/abono-estelar/orqu
+ esta-sinfonica-de-la-radio-de-baviera
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta Sinfónica de la Radio de Baviera (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140509T200000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140509T220000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/abono-estelar/orqu
+ esta-sinfonica-de-la-radio-de-baviera
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta Académica de ISA (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140511T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140511T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/orquesta-academica-del-instituto-superior-de-arte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nelson Goerner (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140512T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140512T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/orquesta-academica-del-instituto-superior-de-arte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nelson Goerner (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140513T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140513T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/orquesta-academica-del-instituto-superior-de-arte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V.O. (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140516T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140516T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/vo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V.O. (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140517T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140517T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/vo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V.O. (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140518T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140518T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/vo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Corsario (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140518T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140518T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-corsario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minsoo Sohn\, piano (Festivales)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140519T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140519T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-corsario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Corsario (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140520T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140520T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-corsario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Corsario (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140521T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140521T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-corsario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Corsario (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140522T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140522T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-corsario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Corsario (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140523T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140523T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-corsario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Corsario (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140524T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140524T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-corsario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Li Biao Percussion Group (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140526T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140526T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-corsario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Li Biao Percussion Group (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140527T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140527T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-corsario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 6 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140529T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140529T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requiem (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140610T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140610T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/requiem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 7 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140612T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140612T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inteligencia Artificial (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140612T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140612T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/la-mujer-sin
+ -sombra-die-frau-ohne-schatten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requiem (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140613T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140613T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/requiem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inteligencia Artificial (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140613T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140613T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/la-mujer-sin
+ -sombra-die-frau-ohne-schatten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inteligencia Artificial (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140614T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140614T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/la-mujer-sin
+ -sombra-die-frau-ohne-schatten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claudio Barile &amp\; Paula Peluso (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140615T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140615T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/la-mujer-sin
+ -sombra-die-frau-ohne-schatten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requiem (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140615T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140615T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/requiem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inteligencia Artificial (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140615T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140615T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/la-mujer-sin
+ -sombra-die-frau-ohne-schatten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requiem (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140617T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140617T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/requiem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 8 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140619T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140619T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lang Lang\, piano (Abono Estelar)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140620T200000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140620T220000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/carmen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coro de niños del Teatro Colón (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140622T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140622T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/carmen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music for 18 musicians (Colón Contemporáneo)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140622T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140622T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/carmen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jerusalem Festival Chamber Ensemble (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140623T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140623T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/carmen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jerusalem Festival Chamber Ensemble (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140624T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140624T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/carmen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 9 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140626T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140626T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/carmen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idomeneo (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140708T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140708T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/idomeneo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 10 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140710T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140710T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idomeneo (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140711T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140711T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/idomeneo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idomeneo (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140712T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140712T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/idomeneo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rafael Gintoli &amp\; Alexander Panizza (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140713T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140713T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/rafael-gintoli-a-alexander-panizza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idomeneo (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140713T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140713T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/idomeneo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idomeneo (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140715T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140715T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/idomeneo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baile de graduados (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140718T000000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140718T020000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/baile-de-gr
+ aduados
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baile de graduados (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140719T000000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140719T020000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/baile-de-gr
+ aduados
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baile de graduados (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140720T000000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140720T020000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/baile-de-gr
+ aduados
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horacio Lavandera\, piano (Festivales Musicales)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140721T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140721T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/baile-de-gr
+ aduados
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baile de graduados (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140722T000000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140722T020000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/baile-de-gr
+ aduados
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adishatz/Adieu (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140724T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140724T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/adishatz--adieu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adishatz/Adieu (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140725T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140725T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/adishatz--adieu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adishatz/Adieu (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140726T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140726T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/adishatz--adieu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adishatz/Adieu (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140727T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140727T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/adishatz--adieu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rodin (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140727T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140727T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/rodin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rodin (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140729T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140729T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/rodin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rodin (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140730T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140730T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/rodin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rodin (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140731T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140731T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/rodin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarek Atoui (Francia/Líbano) (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140731T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140731T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/tarek-atoui
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarek Atoui (Francia/Líbano) (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140801T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140801T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/tarek-atoui
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rodin (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140801T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140801T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/rodin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarek Atoui (Francia/Líbano) (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140802T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140802T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/tarek-atoui
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WEDO / Barenboim / Argerich (Abono Estelar)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140803T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140803T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/abono-estelar/orqu
+ esta-west-eastern-divan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tristán e Isolda (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140804T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140804T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/tristan-e-is
+ olda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martha Argerich &amp\; Daniel Barenboim\, dúo de pianos (Abono Es
+ telar)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140805T200000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140805T220000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/abono-estelar/mart
+ ha-argerich-a-daniel-barenboim-duo-de-pianos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tristán e Isolda (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140806T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140806T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/tristan-e-is
+ olda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martha Argerich-Daniel Barenboim - Les Luthiers (Abono Estelar)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140809T200000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140809T220000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/abono-estelar/mart
+ ha-argerich-a-daniel-barenboim-duo-de-pianos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tristán e Isolda (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140810T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140810T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/tristan-e-is
+ olda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140811T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140811T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/tristan-e-is
+ olda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tristán e Isolda (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140812T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140812T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/tristan-e-is
+ olda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140813T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140813T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/tristan-e-is
+ olda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 11 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140814T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140814T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davidovsky 80 (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140815T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140815T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/davidovsky-80
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala Internacional (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140816T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140816T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/gala-intern
+ acional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davidovsky 80 (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140816T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140816T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/davidovsky-80
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alumnos de Instrumentos de Vientoy Percusión del ISA (Intérprete
+ s argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140817T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140817T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/alumnos-de-instrumentos-de-viento-y-percusion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davidovsky 80 (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140817T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140817T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/davidovsky-80
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joyce Di Donato (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140818T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140818T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/davidovsky-80
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keller Quartet (Colón contemporáneo)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140819T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140819T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/colon-contemporane
+ o/keller-quartet
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joyce Di Donato (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140820T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140820T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/colon-contemporane
+ o/keller-quartet
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 12 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140821T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140821T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 13 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140828T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140828T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iván Rutkauskas &amp\; Marcelo Ayub\, dúo de pianos (Intérprete
+ s argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140831T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140831T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/ivan-rutkauskas-a-marcelo-ayub-duo-de-de-pianos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta Filarmónica de Dresde (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140901T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140901T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/es/calendario/sept
+ iembre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta Filarmónica de Dresde (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140902T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140902T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/es/calendario/sept
+ iembre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonetos de Petrarca (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140904T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140904T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/sonetos-de-petrarca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 14 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140904T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140904T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonetos de Petrarca (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140905T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140905T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/sonetos-de-petrarca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonetos de Petrarca (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140906T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140906T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/sonetos-de-petrarca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaime Torres y su conjunto (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140907T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140907T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/jaime-torres-y-su-conjunto
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Camerata Bariloche (Festivales Musicales)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140908T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140908T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/jaime-torres-y-su-conjunto
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falstaff (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140916T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140916T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/falstaff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 15 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140918T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140918T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falstaff (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140919T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140919T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/falstaff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falstaff (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140920T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140920T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/falstaff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artis – Orquesta de Cámara (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140921T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140921T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/artis-orquesta-de-camara
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falstaff (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140921T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140921T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/falstaff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falstaff (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140923T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140923T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/falstaff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bruno Walter SymphonyFestival Orchestra (N.Harmonia)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140929T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20140929T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/falstaff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El paraíso perdido (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141002T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141002T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeo y Julieta (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141003T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141003T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/romeo-y-jul
+ ieta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El paraíso perdido (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141003T083000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141003T103000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeo y Julieta (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141004T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141004T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El paraíso perdido (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141004T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141004T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freddy Varela Montero\, Carlos Céspedes &amp\; Leonardo Marconi (
+ Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141005T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141005T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/freddy-varela-montero-carlos-cespedes-a-leonardo-marconi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeo y Julieta (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141005T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141005T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/romeo-y-jul
+ ieta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El paraíso perdido (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141005T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141005T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta de Cámara de Basilea (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141006T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141006T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta de Cámara de Basilea (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141007T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141007T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeo y Julieta (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141008T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141008T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/romeo-y-jul
+ ieta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El paraíso perdido (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141009T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141009T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeo y Julieta (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141009T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141009T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/romeo-y-jul
+ ieta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El paraíso perdido (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141010T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141010T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeo y Julieta (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141010T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141010T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/romeo-y-jul
+ ieta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El paraíso perdido (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141011T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141011T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/el-paraiso-perdido
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeo y Julieta (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141011T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141011T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/romeo-y-jul
+ ieta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Barroca del Suquía (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141012T230000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141013T010000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/la-barroca-del-suquia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 16 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141016T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141016T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moscow Soloists (N.Harmonia)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141020T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141020T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektra (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141028T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141028T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/elektra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hércules en el Mato Grosso (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141030T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141030T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/hercules-en-el-mato-grosso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 17 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141030T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141030T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektra (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141031T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141031T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/elektra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hércules en el Mato Grosso (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141031T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141031T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/hercules-en-el-mato-grosso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hércules en el Mato Grosso (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141101T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141101T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/hercules-en-el-mato-grosso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektra (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141101T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141101T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/elektra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:José Luis Juri &amp\; Fernanda Morello\, dúo de pianos (Intérpr
+ etes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141102T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141102T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/jose-luis-juri-a-fernanda-morello-duo-de-pianos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektra (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141102T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141102T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/elektra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hércules en el Mato Grosso (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141102T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141102T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/hercules-en-el-mato-grosso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensamble Artaserse (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141103T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141103T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/hercules-en-el-mato-grosso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektra (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141104T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141104T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/elektra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensamble Artaserse (Mozarteum)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141105T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141105T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/elektra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 18 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141106T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141106T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta Sinfónica Nacional de Beijing (N.Harmonia)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141108T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141108T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensamble Academia Bach y Orfeón de Buenos Aires (Festivales Music
+ ales)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141109T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141109T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/conciertos/abono-1
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luciano Berio: Coro (Colón Contemporáneo)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141113T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141113T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/colon-contemporane
+ o/coro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141125T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141125T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/madama-butte
+ rfly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141126T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141126T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/madama-butte
+ rfly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141128T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141128T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/madama-butte
+ rfly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141129T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141129T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/madama-butte
+ rfly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estudio Coral de Buenos Aires (Intérpretes Argentinos)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141130T110000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141130T130000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/interpretes-argent
+ inos/estudio-coral-de-buenos-aires
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141130T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141130T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/madama-butte
+ rfly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (Ópera)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141202T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141202T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/opera/madama-butte
+ rfly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trust\, de Falk Richter (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141211T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141211T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/trust
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trust\, de Falk Richter (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141212T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141212T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/trust
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trust\, de Falk Richter (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141213T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141213T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/trust
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trust\, de Falk Richter (Centro de Experimentación)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141214T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141214T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/centro-de-experime
+ ntacion/trust
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Cascanueces (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141216T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141216T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-cascanue
+ ces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Cascanueces (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141217T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141217T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-cascanue
+ ces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Cascanueces (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141218T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141218T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-cascanue
+ ces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Cascanueces (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141219T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141219T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-cascanue
+ ces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Cascanueces (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141220T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141220T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-cascanue
+ ces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Cascanueces (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141221T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141221T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-cascanue
+ ces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Cascanueces (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141223T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141223T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-cascanue
+ ces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Cascanueces (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141227T203000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141227T223000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-cascanue
+ ces
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Cascanueces (Ballet)
+DTSTART;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141228T170000
+DTEND;TZID=America/Buenos_Aires;VALUE=DATE-TIME:20141228T190000
+DESCRIPTION:http://www.teatrocolon.org.ar/es/calendario/ballet/el-cascanue
+ ces
+END:VEVENT
+END:VCALENDAR
