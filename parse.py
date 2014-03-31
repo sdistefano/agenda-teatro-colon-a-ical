@@ -14,7 +14,7 @@ class TeatroColonEvent(object):
         self.name = name
         self.section = section
         self.start_time = start_time
-        self.url = BASE_URL + url
+        self.url = DOMAIN + url
 
         if WRITE_AS_UTC:
             self.start_time = pytz.utc.normalize(self.start_time.astimezone(pytz.utc))
