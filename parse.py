@@ -2,6 +2,7 @@ import BeautifulSoup, requests, icalendar, pytz
 import re, datetime
 
 SEASON_START_MONTH = 3      #Marzo
+WRITE_AS_UTC = True             #google calendar
 
 TZ_BuenosAires = pytz.timezone('America/Buenos_Aires')
 
@@ -14,6 +15,9 @@ class TeatroColonEvent(object):
         self.section = section
         self.start_time = start_time
         self.url = BASE_URL + url
+
+        if WRITE_AS_UTC:
+            self.start_time = pytz.utc.normalize(self.start_time.astimezone(pytz.utc))
 
     def __repr__(self):
         return u'{}, {} {}'.format(self.name, self.section, self.start_time, self.url)
@@ -61,11 +65,12 @@ def _get_dt(month, day, time):
         hour = 0
     minute = int(time[1])
 
-    return datetime.datetime(year=datetime.date.today().year,
+    dt = datetime.datetime(year=datetime.date.today().year,
                          month=month,
                          day=day,
                          hour=hour,
-                         minute=minute, tzinfo=TZ_BuenosAires)
+                         minute=minute)
+    return TZ_BuenosAires.localize(dt)
 
 def fetch_events(month, url):
     soup = _soup(url)
