@@ -1,0 +1,1364 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:OFBA Concierto Nº 1 (Abono Beethoven)
+DTSTART;VALUE=DATE-TIME:20150303T230000Z
+DTEND;VALUE=DATE-TIME:20150304T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/abono-beethoven/co
+ ncierto-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFBA Concierto Nº 2 (Abono Beethoven)
+DTSTART;VALUE=DATE-TIME:20150304T230000Z
+DTEND;VALUE=DATE-TIME:20150305T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/abono-beethoven/co
+ ncierto-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFBA Concierto Nº 3 (Abono Beethoven)
+DTSTART;VALUE=DATE-TIME:20150305T230000Z
+DTEND;VALUE=DATE-TIME:20150306T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/abono-beethoven/co
+ ncierto-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFBA Concierto Nº 4 (Abono Beethoven)
+DTSTART;VALUE=DATE-TIME:20150306T230000Z
+DTEND;VALUE=DATE-TIME:20150307T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/abono-beethoven/co
+ ncierto-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFBA Concierto Nº 5 (Abono Beethoven)
+DTSTART;VALUE=DATE-TIME:20150308T200000Z
+DTEND;VALUE=DATE-TIME:20150308T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/abono-beethoven/co
+ ncierto-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 2 (Orquesta Estable)
+DTSTART;VALUE=DATE-TIME:20150307T230000Z
+DTEND;VALUE=DATE-TIME:20150308T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Últimos movimientos (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150312T230000Z
+DTEND;VALUE=DATE-TIME:20150313T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/ult
+ imos-movimientos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Últimos movimientos (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150313T230000Z
+DTEND;VALUE=DATE-TIME:20150314T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/ult
+ imos-movimientos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Últimos movimientos (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150315T000000Z
+DTEND;VALUE=DATE-TIME:20150315T020000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/ult
+ imos-movimientos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trilogía Neoclásica IV AV (Ballet)
+DTSTART;VALUE=DATE-TIME:20150315T200000Z
+DTEND;VALUE=DATE-TIME:20150315T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/trilogia-neoclasica-iv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Camerata Bariloche (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150315T140000Z
+DTEND;VALUE=DATE-TIME:20150315T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/camera
+ ta-bariloche
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trilogía Neoclásica IV AN (Ballet)
+DTSTART;VALUE=DATE-TIME:20150317T230000Z
+DTEND;VALUE=DATE-TIME:20150318T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/trilogia-neoclasica-iv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trilogía Neoclásica IV FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150318T230000Z
+DTEND;VALUE=DATE-TIME:20150319T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/trilogia-neoclasica-iv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trilogía Neoclásica IV FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150319T230000Z
+DTEND;VALUE=DATE-TIME:20150320T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/trilogia-neoclasica-iv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trilogía Neoclásica IV FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150320T230000Z
+DTEND;VALUE=DATE-TIME:20150321T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/trilogia-neoclasica-iv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trilogía Neoclásica IV FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150321T230000Z
+DTEND;VALUE=DATE-TIME:20150322T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/trilogia-neoclasica-iv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eduardo Ludueña\, violín - Carlos Cespedes\, clarinete - Guiller
+ mo Salgado\, piano (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150322T140000Z
+DTEND;VALUE=DATE-TIME:20150322T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/eduard
+ o-luduena-carlos-cespedes-guillermo-salgado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wynton Marsalis (Ciclo Quinto Aniversario)
+DTSTART;VALUE=DATE-TIME:20150325T230000Z
+DTEND;VALUE=DATE-TIME:20150326T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ciclo-quinto-aniversario/wynt
+ on-marsalis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 1 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;VALUE=DATE-TIME:20150327T230000Z
+DTEND;VALUE=DATE-TIME:20150328T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 1 (Orquesta Filarmónica de Buenos Ai
+ res)
+DTSTART;VALUE=DATE-TIME:20150401T230000Z
+DTEND;VALUE=DATE-TIME:20150402T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coro de niños del Teatro Colón (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150405T140000Z
+DTEND;VALUE=DATE-TIME:20150405T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/coro-d
+ e-ninos-del-teatro-colon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 2 (Orquesta Filarmónica de Buenos Ai
+ res)
+DTSTART;VALUE=DATE-TIME:20150411T230000Z
+DTEND;VALUE=DATE-TIME:20150412T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coro y Orquesta de la Bachakademie Stuttgart (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150413T230000Z
+DTEND;VALUE=DATE-TIME:20150414T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werther GA (Ópera)
+DTSTART;VALUE=DATE-TIME:20150414T230000Z
+DTEND;VALUE=DATE-TIME:20150415T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/werther
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coro y Orquesta de la Bachakademie Stuttgart (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150415T230000Z
+DTEND;VALUE=DATE-TIME:20150416T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werther FE (Ópera)
+DTSTART;VALUE=DATE-TIME:20150416T230000Z
+DTEND;VALUE=DATE-TIME:20150417T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/werther
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Integrales I (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150416T230000Z
+DTEND;VALUE=DATE-TIME:20150417T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/fes
+ tival-integrales-i
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Integrales I (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150417T230000Z
+DTEND;VALUE=DATE-TIME:20150418T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/fes
+ tival-integrales-i
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werther ANT (Ópera)
+DTSTART;VALUE=DATE-TIME:20150417T230000Z
+DTEND;VALUE=DATE-TIME:20150418T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/werther
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werther FE (Ópera)
+DTSTART;VALUE=DATE-TIME:20150418T230000Z
+DTEND;VALUE=DATE-TIME:20150419T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/werther
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Integrales II (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150418T230000Z
+DTEND;VALUE=DATE-TIME:20150419T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/fes
+ tival-integrales-ii
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guillo Espel Cuarteto (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150419T140000Z
+DTEND;VALUE=DATE-TIME:20150419T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/guillo
+ -espel-cuarteto
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werther AB (Ópera)
+DTSTART;VALUE=DATE-TIME:20150419T200000Z
+DTEND;VALUE=DATE-TIME:20150419T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/werther
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Integrales II (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150419T200000Z
+DTEND;VALUE=DATE-TIME:20150419T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/fes
+ tival-integrales-ii
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deutsche Kammerphilarmonie Bremen (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150420T230000Z
+DTEND;VALUE=DATE-TIME:20150421T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Integrales III (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150421T230000Z
+DTEND;VALUE=DATE-TIME:20150422T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/fes
+ tival-integrales-iii
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werther ANN (Ópera)
+DTSTART;VALUE=DATE-TIME:20150421T230000Z
+DTEND;VALUE=DATE-TIME:20150422T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/werther
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Integrales III (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150422T230000Z
+DTEND;VALUE=DATE-TIME:20150423T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/fes
+ tival-integrales-iii
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deutsche Kammerphilarmonie Bremen (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150422T230000Z
+DTEND;VALUE=DATE-TIME:20150423T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 2 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;VALUE=DATE-TIME:20150423T230000Z
+DTEND;VALUE=DATE-TIME:20150424T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visión John Cage (BAFICI) (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150423T230000Z
+DTEND;VALUE=DATE-TIME:20150424T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/vis
+ ion-john-cage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visión John Cage (BAFICI) (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150424T230000Z
+DTEND;VALUE=DATE-TIME:20150425T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/vis
+ ion-john-cage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visión John Cage (BAFICI) (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150425T230000Z
+DTEND;VALUE=DATE-TIME:20150426T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/vis
+ ion-john-cage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 3 (Orquesta Filarmónica de Buenos Ai
+ res)
+DTSTART;VALUE=DATE-TIME:20150430T230000Z
+DTEND;VALUE=DATE-TIME:20150501T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:György Ligeti: Estudios para piano (Colón Contemporáneo)
+DTSTART;VALUE=DATE-TIME:20150503T200000Z
+DTEND;VALUE=DATE-TIME:20150503T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/colon-contemporaneo/gyoergy-l
+ igeti-estudios-para-piano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 3 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;VALUE=DATE-TIME:20150507T230000Z
+DTEND;VALUE=DATE-TIME:20150508T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Elisir d'Amore GA (Ópera)
+DTSTART;VALUE=DATE-TIME:20150508T230000Z
+DTEND;VALUE=DATE-TIME:20150509T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/lelisir-damore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Elisir d'Amore FE (Ópera)
+DTSTART;VALUE=DATE-TIME:20150509T230000Z
+DTEND;VALUE=DATE-TIME:20150510T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/lelisir-damore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 4 (Orquesta Filarmónica de Buenos Ai
+ res)
+DTSTART;VALUE=DATE-TIME:20150509T230000Z
+DTEND;VALUE=DATE-TIME:20150510T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Elisir d'Amore AV (Ópera)
+DTSTART;VALUE=DATE-TIME:20150510T200000Z
+DTEND;VALUE=DATE-TIME:20150510T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/lelisir-damore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta Sinfónica de Neuquén (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150510T140000Z
+DTEND;VALUE=DATE-TIME:20150510T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/orques
+ ta-sinfonica-de-neuquen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jan Lisiecki\, piano (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150511T230000Z
+DTEND;VALUE=DATE-TIME:20150512T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Elisir d'Amore ANT (Ópera)
+DTSTART;VALUE=DATE-TIME:20150512T230000Z
+DTEND;VALUE=DATE-TIME:20150513T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/lelisir-damore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jan Lisiecki\, piano (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150513T230000Z
+DTEND;VALUE=DATE-TIME:20150514T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Elisir d'Amore ANN (Ópera)
+DTSTART;VALUE=DATE-TIME:20150514T230000Z
+DTEND;VALUE=DATE-TIME:20150515T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/lelisir-damore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breve Sueño (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150514T230000Z
+DTEND;VALUE=DATE-TIME:20150515T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/bre
+ ve-sueno
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haydn Esterhàzy - Alexander Lonquich\, piano (N.Harmonia Filarmó
+ nica Astro-húngara)
+DTSTART;VALUE=DATE-TIME:20150515T230000Z
+DTEND;VALUE=DATE-TIME:20150516T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breve Sueño (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150515T230000Z
+DTEND;VALUE=DATE-TIME:20150516T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/bre
+ ve-sueno
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breve Sueño (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150516T230000Z
+DTEND;VALUE=DATE-TIME:20150517T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/bre
+ ve-sueno
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breve Sueño (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150517T230000Z
+DTEND;VALUE=DATE-TIME:20150518T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/bre
+ ve-sueno
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conjunto Pro Música Antiqua de Rosario (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150517T140000Z
+DTEND;VALUE=DATE-TIME:20150517T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/conjun
+ to-pro-musica-antiqua-de-rosario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atos Trío (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150518T230000Z
+DTEND;VALUE=DATE-TIME:20150519T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atos Trío (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150519T230000Z
+DTEND;VALUE=DATE-TIME:20150520T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 3 (Orquesta Estable)
+DTSTART;VALUE=DATE-TIME:20150523T230000Z
+DTEND;VALUE=DATE-TIME:20150524T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tango - Gala Conmemorativa 25/10 (Ballet)
+DTSTART;VALUE=DATE-TIME:20150524T200000Z
+DTEND;VALUE=DATE-TIME:20150524T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/gala-celebratoria-24-d
+ e-mayo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lago de los cisnes FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150526T230000Z
+DTEND;VALUE=DATE-TIME:20150527T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/el-lago-de-los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lago de los cisnes FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150527T230000Z
+DTEND;VALUE=DATE-TIME:20150528T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/el-lago-de-los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lago de los cisnes FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150528T230000Z
+DTEND;VALUE=DATE-TIME:20150529T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/el-lago-de-los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lago de los cisnes FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150529T230000Z
+DTEND;VALUE=DATE-TIME:20150530T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/el-lago-de-los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lago de los cisnes FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150530T230000Z
+DTEND;VALUE=DATE-TIME:20150531T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/el-lago-de-los-cisnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantoría Lugano (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150531T140000Z
+DTEND;VALUE=DATE-TIME:20150531T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/cantor
+ ia-lugano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evgueni Kissin\, piano (Ciclo Quinto Aniversario)
+DTSTART;VALUE=DATE-TIME:20150602T230000Z
+DTEND;VALUE=DATE-TIME:20150603T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ciclo-quinto-aniversario/evgu
+ eni-kissin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 4 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;VALUE=DATE-TIME:20150604T230000Z
+DTEND;VALUE=DATE-TIME:20150605T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quartett GA (Ópera)
+DTSTART;VALUE=DATE-TIME:20150616T230000Z
+DTEND;VALUE=DATE-TIME:20150617T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/quartett
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Match Girl Passion (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150616T230000Z
+DTEND;VALUE=DATE-TIME:20150617T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/lit
+ tle-match-girl-passion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Match Girl Passion (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150617T230000Z
+DTEND;VALUE=DATE-TIME:20150618T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/lit
+ tle-match-girl-passion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 5 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;VALUE=DATE-TIME:20150618T230000Z
+DTEND;VALUE=DATE-TIME:20150619T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Match Girl Passion (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150618T230000Z
+DTEND;VALUE=DATE-TIME:20150619T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/lit
+ tle-match-girl-passion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Match Girl Passion (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150619T230000Z
+DTEND;VALUE=DATE-TIME:20150620T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/lit
+ tle-match-girl-passion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quartett ANT (Ópera)
+DTSTART;VALUE=DATE-TIME:20150619T230000Z
+DTEND;VALUE=DATE-TIME:20150620T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/quartett
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quartett AV (Ópera)
+DTSTART;VALUE=DATE-TIME:20150621T200000Z
+DTEND;VALUE=DATE-TIME:20150621T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/quartett
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Música Quántica (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150621T140000Z
+DTEND;VALUE=DATE-TIME:20150621T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/musica
+ -quantica
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quartett ANN (Ópera)
+DTSTART;VALUE=DATE-TIME:20150623T230000Z
+DTEND;VALUE=DATE-TIME:20150624T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/quartett
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 6 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;VALUE=DATE-TIME:20150625T230000Z
+DTEND;VALUE=DATE-TIME:20150626T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Budapest Festival Orchestra (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150626T230000Z
+DTEND;VALUE=DATE-TIME:20150627T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Budapest Festival Orchestra (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150627T230000Z
+DTEND;VALUE=DATE-TIME:20150628T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coro Universitario de Mendoza (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150628T140000Z
+DTEND;VALUE=DATE-TIME:20150628T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/coro-u
+ niversitario-de-mendoza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 5 (Orquesta Filarmónica de Buenos Ai
+ res)
+DTSTART;VALUE=DATE-TIME:20150704T230000Z
+DTEND;VALUE=DATE-TIME:20150705T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cavalleria Rusticana / Pagliacci GA (Ópera)
+DTSTART;VALUE=DATE-TIME:20150714T230000Z
+DTEND;VALUE=DATE-TIME:20150715T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/cavalleria-rusticana-pa
+ gliacci
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cavalleria Rusticana / Pagliacci ANT (Ópera)
+DTSTART;VALUE=DATE-TIME:20150717T230000Z
+DTEND;VALUE=DATE-TIME:20150718T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/cavalleria-rusticana-pa
+ gliacci
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cavalleria Rusticana / Pagliacci FE (Ópera)
+DTSTART;VALUE=DATE-TIME:20150718T230000Z
+DTEND;VALUE=DATE-TIME:20150719T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/cavalleria-rusticana-pa
+ gliacci
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cavalleria Rusticana / Pagliacci AV (Ópera)
+DTSTART;VALUE=DATE-TIME:20150719T200000Z
+DTEND;VALUE=DATE-TIME:20150719T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/cavalleria-rusticana-pa
+ gliacci
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kristine Bara\, viola - Iván Rutkauskas\, piano (Intérpretes Arg
+ entinos)
+DTSTART;VALUE=DATE-TIME:20150719T140000Z
+DTEND;VALUE=DATE-TIME:20150719T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/kristi
+ ne-bara-e-ivan-rutkauskas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cavalleria Rusticana / Pagliacci ANN (Ópera)
+DTSTART;VALUE=DATE-TIME:20150721T230000Z
+DTEND;VALUE=DATE-TIME:20150722T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/cavalleria-rusticana-pa
+ gliacci
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El limonero Real (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150723T230000Z
+DTEND;VALUE=DATE-TIME:20150724T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/el-
+ limonero-real
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 7 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;VALUE=DATE-TIME:20150723T230000Z
+DTEND;VALUE=DATE-TIME:20150724T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El limonero Real (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150724T230000Z
+DTEND;VALUE=DATE-TIME:20150725T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/el-
+ limonero-real
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan AE (FMYR)
+DTSTART;VALUE=DATE-TIME:20150724T230000Z
+DTEND;VALUE=DATE-TIME:20150725T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/orquesta-west-e
+ astern-divan-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan FE (FMYR)
+DTSTART;VALUE=DATE-TIME:20150725T230000Z
+DTEND;VALUE=DATE-TIME:20150726T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/orquesta-west-e
+ astern-divan-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El limonero Real (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150725T230000Z
+DTEND;VALUE=DATE-TIME:20150726T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/el-
+ limonero-real
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Barenboim / Martha Argerich\, Dúo de pianos AE (FMYR)
+DTSTART;VALUE=DATE-TIME:20150726T200000Z
+DTEND;VALUE=DATE-TIME:20150726T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/martha-argerich
+ -daniel-barenboim
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El limonero Real (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150726T200000Z
+DTEND;VALUE=DATE-TIME:20150726T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/el-
+ limonero-real
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WEDO / Barenboim / Argerich AE (FMYR)
+DTSTART;VALUE=DATE-TIME:20150729T230000Z
+DTEND;VALUE=DATE-TIME:20150730T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/orquesta-west-e
+ astern-divan-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WEDO / Barenboim / Argerich FE (FMYR)
+DTSTART;VALUE=DATE-TIME:20150730T230000Z
+DTEND;VALUE=DATE-TIME:20150731T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/orquesta-west-e
+ astern-divan-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 6 (Orquesta Filarmónica de Buenos Ai
+ res)
+DTSTART;VALUE=DATE-TIME:20150731T230000Z
+DTEND;VALUE=DATE-TIME:20150801T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es#
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan (Solistas) Centro Islámico FE (FMYR)
+DTSTART;VALUE=DATE-TIME:20150801T210000Z
+DTEND;VALUE=DATE-TIME:20150801T230000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/es/calendario/agosto
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simposio de Reflexión (FMYR)
+DTSTART;VALUE=DATE-TIME:20150801T230000Z
+DTEND;VALUE=DATE-TIME:20150802T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/simposio-de-ref
+ lexion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 4 (Orquesta Estable)
+DTSTART;VALUE=DATE-TIME:20150801T230000Z
+DTEND;VALUE=DATE-TIME:20150802T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/simposio-de-ref
+ lexion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150802T230000Z
+DTEND;VALUE=DATE-TIME:20150803T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/simposio-de-ref
+ lexion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150803T230000Z
+DTEND;VALUE=DATE-TIME:20150804T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/simposio-de-ref
+ lexion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan (Solistas) AE (FMYR)
+DTSTART;VALUE=DATE-TIME:20150804T230000Z
+DTEND;VALUE=DATE-TIME:20150805T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/solistas-de-la-
+ orquesta-west-eastern-divan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan (FMYR)
+DTSTART;VALUE=DATE-TIME:20150805T210000Z
+DTEND;VALUE=DATE-TIME:20150805T230000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/solistas-de-la-
+ orquesta-west-eastern-divan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antidiáspora (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150805T230000Z
+DTEND;VALUE=DATE-TIME:20150806T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/ant
+ idiaspora
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simposio de Reflexión (FMYR)
+DTSTART;VALUE=DATE-TIME:20150805T230000Z
+DTEND;VALUE=DATE-TIME:20150806T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/simposio-de-ref
+ lexion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antidiáspora (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150806T230000Z
+DTEND;VALUE=DATE-TIME:20150807T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/ant
+ idiaspora
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan (Solistas)Catedral Metropolitana FE (F
+ MYR)
+DTSTART;VALUE=DATE-TIME:20150806T210000Z
+DTEND;VALUE=DATE-TIME:20150806T230000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/ant
+ idiaspora
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antidiáspora (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150807T230000Z
+DTEND;VALUE=DATE-TIME:20150808T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/ant
+ idiaspora
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan AE (FMYR)
+DTSTART;VALUE=DATE-TIME:20150807T230000Z
+DTEND;VALUE=DATE-TIME:20150808T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/orquesta-west-e
+ astern-divan-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antidiáspora (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150808T230000Z
+DTEND;VALUE=DATE-TIME:20150809T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/ant
+ idiaspora
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta West-Eastern Divan FE (FMYR)
+DTSTART;VALUE=DATE-TIME:20150808T230000Z
+DTEND;VALUE=DATE-TIME:20150809T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/abono-estelar/orquesta-west-e
+ astern-divan-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 8 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;VALUE=DATE-TIME:20150811T230000Z
+DTEND;VALUE=DATE-TIME:20150812T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paula Almerares\, soprano – Karin Lechner\, piano (Ciclo Quinto 
+ Aniversario)
+DTSTART;VALUE=DATE-TIME:20150812T230000Z
+DTEND;VALUE=DATE-TIME:20150813T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ciclo-quinto-aniversario/paul
+ a-almerares-karin-lechner
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 9 (Orquesta Filarmónica de Buenos Aires)
+DTSTART;VALUE=DATE-TIME:20150813T230000Z
+DTEND;VALUE=DATE-TIME:20150814T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/orquesta-filarmonica-de-bueno
+ s-aires/abono-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gèrard Grisey: Espacios Acústicos (Colón Contemporáneo)
+DTSTART;VALUE=DATE-TIME:20150814T230000Z
+DTEND;VALUE=DATE-TIME:20150815T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/colon-contemporaneo/gerard-gr
+ isey-espacios-acusticos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala Internacional (Ballet)
+DTSTART;VALUE=DATE-TIME:20150816T200000Z
+DTEND;VALUE=DATE-TIME:20150816T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/gala-internacional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christianne Stotijn\, mezzosoprano -Maciej Pikulski\, piano (Mozar
+ teum)
+DTSTART;VALUE=DATE-TIME:20150817T230000Z
+DTEND;VALUE=DATE-TIME:20150818T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/gala-internacional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christianne Stotijn\, mezzosoprano -Maciej Pikulski\, piano (Mozar
+ teum)
+DTSTART;VALUE=DATE-TIME:20150818T230000Z
+DTEND;VALUE=DATE-TIME:20150819T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/gala-internacional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sylvia AV (Ballet)
+DTSTART;VALUE=DATE-TIME:20150823T200000Z
+DTEND;VALUE=DATE-TIME:20150823T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/sylvia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sylvia AN (Ballet)
+DTSTART;VALUE=DATE-TIME:20150825T230000Z
+DTEND;VALUE=DATE-TIME:20150826T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/sylvia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sylvia FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150826T230000Z
+DTEND;VALUE=DATE-TIME:20150827T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/sylvia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teatro Martín Fierro (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150827T230000Z
+DTEND;VALUE=DATE-TIME:20150828T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/tea
+ tro-martin-fierro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sylvia FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150827T230000Z
+DTEND;VALUE=DATE-TIME:20150828T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/sylvia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teatro Martín Fierro (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150828T230000Z
+DTEND;VALUE=DATE-TIME:20150829T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/tea
+ tro-martin-fierro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sylvia FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150828T230000Z
+DTEND;VALUE=DATE-TIME:20150829T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/sylvia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sylvia FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20150829T230000Z
+DTEND;VALUE=DATE-TIME:20150830T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/sylvia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teatro Martín Fierro (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150829T230000Z
+DTEND;VALUE=DATE-TIME:20150830T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/tea
+ tro-martin-fierro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teatro Martín Fierro (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150830T200000Z
+DTEND;VALUE=DATE-TIME:20150830T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/tea
+ tro-martin-fierro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coral Femenino de San Justo (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150830T140000Z
+DTEND;VALUE=DATE-TIME:20150830T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/coral-
+ femenino-de-san-justo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Binelli\, bandoneón – Eduardo Isaac\, guitarra - Polly F
+ erman\, piano (Ciclo Quinto Aniversario)
+DTSTART;VALUE=DATE-TIME:20150901T230000Z
+DTEND;VALUE=DATE-TIME:20150902T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ciclo-quinto-aniversario/dani
+ el-binelli-eduardo-isaac-polly-ferman
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 10 (OFBA)
+DTSTART;VALUE=DATE-TIME:20150903T230000Z
+DTEND;VALUE=DATE-TIME:20150904T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lito Vitale (Ciclo Quinto Aniversario)
+DTSTART;VALUE=DATE-TIME:20150904T230000Z
+DTEND;VALUE=DATE-TIME:20150905T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ciclo-quinto-aniversario/lito
+ -vitale-a-musicos-invitados
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:María Cecilia Muñoz\, flauta - José Araujo\,violonchelo - Ferna
+ ndo Pérez\, piano (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150906T140000Z
+DTEND;VALUE=DATE-TIME:20150906T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/maria-
+ cecilia-munoz-jose-araujo-a-fernando-perez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jordi Savall - Hisperion XXI (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150917T230000Z
+DTEND;VALUE=DATE-TIME:20150918T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/maria-
+ cecilia-munoz-jose-araujo-a-fernando-perez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jordi Savall - Hisperion XXI (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20150918T230000Z
+DTEND;VALUE=DATE-TIME:20150919T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/maria-
+ cecilia-munoz-jose-araujo-a-fernando-perez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 7 (OFBA)
+DTSTART;VALUE=DATE-TIME:20150912T230000Z
+DTEND;VALUE=DATE-TIME:20150913T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/maria-
+ cecilia-munoz-jose-araujo-a-fernando-perez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Carlo AV (Ópera)
+DTSTART;VALUE=DATE-TIME:20150920T200000Z
+DTEND;VALUE=DATE-TIME:20150920T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/don-carlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Carlo GA (Ópera)
+DTSTART;VALUE=DATE-TIME:20150923T230000Z
+DTEND;VALUE=DATE-TIME:20150924T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/don-carlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 11 (OFBA)
+DTSTART;VALUE=DATE-TIME:20150924T230000Z
+DTEND;VALUE=DATE-TIME:20150925T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL Jardín Sahel (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150924T230000Z
+DTEND;VALUE=DATE-TIME:20150925T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/el-
+ jardin-sahel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL Jardín Sahel (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150925T230000Z
+DTEND;VALUE=DATE-TIME:20150926T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/el-
+ jardin-sahel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Carlo ANT (Ópera)
+DTSTART;VALUE=DATE-TIME:20150926T230000Z
+DTEND;VALUE=DATE-TIME:20150927T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/don-carlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL Jardín Sahel (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150926T230000Z
+DTEND;VALUE=DATE-TIME:20150927T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/el-
+ jardin-sahel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL Jardín Sahel (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20150927T200000Z
+DTEND;VALUE=DATE-TIME:20150927T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/el-
+ jardin-sahel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coro Orfeón (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20150927T140000Z
+DTEND;VALUE=DATE-TIME:20150927T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/grupo-
+ vocal-masculino-orfeon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viktoria Mullova\, violín - Katia Labèque\, piano (N.Harmonia)
+DTSTART;VALUE=DATE-TIME:20150928T230000Z
+DTEND;VALUE=DATE-TIME:20150929T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/grupo-
+ vocal-masculino-orfeon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Carlo ANN (Ópera)
+DTSTART;VALUE=DATE-TIME:20150929T230000Z
+DTEND;VALUE=DATE-TIME:20150930T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/don-carlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 12 (OFBA)
+DTSTART;VALUE=DATE-TIME:20151001T230000Z
+DTEND;VALUE=DATE-TIME:20151002T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dino Saluzzi\, bandoneón (Ciclo Quinto Aniversario)
+DTSTART;VALUE=DATE-TIME:20151002T230000Z
+DTEND;VALUE=DATE-TIME:20151003T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ciclo-quinto-aniversario/dino
+ -saluzzi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Néstor Garrote\, oboe - Liza Chung\, piano (Intérpretes Argentin
+ os)
+DTSTART;VALUE=DATE-TIME:20151004T140000Z
+DTEND;VALUE=DATE-TIME:20151004T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/nestor
+ -garrote-a-liza-chung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alessio Bax (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20151005T230000Z
+DTEND;VALUE=DATE-TIME:20151006T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/nestor
+ -garrote-a-liza-chung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alessio Bax (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20151006T230000Z
+DTEND;VALUE=DATE-TIME:20151007T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/nestor
+ -garrote-a-liza-chung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 5 (Orquesta Estable)
+DTSTART;VALUE=DATE-TIME:20151010T230000Z
+DTEND;VALUE=DATE-TIME:20151011T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/nestor
+ -garrote-a-liza-chung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onieguin AV (Ballet)
+DTSTART;VALUE=DATE-TIME:20151011T200000Z
+DTEND;VALUE=DATE-TIME:20151011T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/onieguin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onieguin AN (Ballet)
+DTSTART;VALUE=DATE-TIME:20151013T230000Z
+DTEND;VALUE=DATE-TIME:20151014T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/onieguin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onieguin FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20151014T230000Z
+DTEND;VALUE=DATE-TIME:20151015T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/onieguin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onieguin FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20151015T230000Z
+DTEND;VALUE=DATE-TIME:20151016T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/onieguin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onieguin FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20151016T230000Z
+DTEND;VALUE=DATE-TIME:20151017T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/onieguin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onieguin FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20151017T230000Z
+DTEND;VALUE=DATE-TIME:20151018T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/onieguin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trío Zar (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20151018T140000Z
+DTEND;VALUE=DATE-TIME:20151018T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/trio-z
+ arate-angeleri-a-rey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still Life (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151021T230000Z
+DTEND;VALUE=DATE-TIME:20151022T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/sti
+ ll-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still Life (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151022T230000Z
+DTEND;VALUE=DATE-TIME:20151023T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/sti
+ ll-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 13 (OFBA)
+DTSTART;VALUE=DATE-TIME:20151022T230000Z
+DTEND;VALUE=DATE-TIME:20151023T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still Life (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151023T230000Z
+DTEND;VALUE=DATE-TIME:20151024T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/sti
+ ll-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still Life (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151024T230000Z
+DTEND;VALUE=DATE-TIME:20151025T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/sti
+ ll-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 8 (OFBA)
+DTSTART;VALUE=DATE-TIME:20151024T230000Z
+DTEND;VALUE=DATE-TIME:20151025T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/sti
+ ll-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BBC National Orchestra of Wales (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20151102T230000Z
+DTEND;VALUE=DATE-TIME:20151103T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/es/calendario/noviembre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Ángel de fuego GA (Ópera)
+DTSTART;VALUE=DATE-TIME:20151103T230000Z
+DTEND;VALUE=DATE-TIME:20151104T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/el-angel-de-fuego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BBC National Orchestra of Wales (Mozarteum)
+DTSTART;VALUE=DATE-TIME:20151104T230000Z
+DTEND;VALUE=DATE-TIME:20151105T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/el-angel-de-fuego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abono 14 (OFBA)
+DTSTART;VALUE=DATE-TIME:20151105T230000Z
+DTEND;VALUE=DATE-TIME:20151106T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/conciertos/orquesta-filarmoni
+ ca-de-buenos-aires/abono-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Ángel de fuego ANT (Ópera)
+DTSTART;VALUE=DATE-TIME:20151106T230000Z
+DTEND;VALUE=DATE-TIME:20151107T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/el-angel-de-fuego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Ángel de fuego AV (Ópera)
+DTSTART;VALUE=DATE-TIME:20151108T200000Z
+DTEND;VALUE=DATE-TIME:20151108T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/el-angel-de-fuego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estudio Coral de Buenos Aires (Intérpretes Argentinos)
+DTSTART;VALUE=DATE-TIME:20151108T140000Z
+DTEND;VALUE=DATE-TIME:20151108T160000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/interpretes-argentinos/estudi
+ o-coral-de-buenos-aires
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Ángel de fuego ANN (Ópera)
+DTSTART;VALUE=DATE-TIME:20151110T230000Z
+DTEND;VALUE=DATE-TIME:20151111T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/el-angel-de-fuego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlheinz Stockhausen: Trans (Colón Contemporáneo)
+DTSTART;VALUE=DATE-TIME:20151112T230000Z
+DTEND;VALUE=DATE-TIME:20151113T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/colon-contemporaneo/karlheinz
+ -stockhausen-trans
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laboratorio de emociones (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151112T230000Z
+DTEND;VALUE=DATE-TIME:20151113T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/lab
+ oratorio-de-emociones
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laboratorio de emociones (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151113T230000Z
+DTEND;VALUE=DATE-TIME:20151114T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/lab
+ oratorio-de-emociones
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laboratorio de emociones (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151114T230000Z
+DTEND;VALUE=DATE-TIME:20151115T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/lab
+ oratorio-de-emociones
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laboratorio de emociones (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151115T200000Z
+DTEND;VALUE=DATE-TIME:20151115T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/lab
+ oratorio-de-emociones
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 9 (OFBA)
+DTSTART;VALUE=DATE-TIME:20151121T230000Z
+DTEND;VALUE=DATE-TIME:20151122T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/lab
+ oratorio-de-emociones
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parsifal GA (Ópera)
+DTSTART;VALUE=DATE-TIME:20151204T230000Z
+DTEND;VALUE=DATE-TIME:20151205T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/parsifal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: Odisea del Espacio (Colón Contemporáneo)
+DTSTART;VALUE=DATE-TIME:20151205T230000Z
+DTEND;VALUE=DATE-TIME:20151206T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/colon-contemporaneo/2001-odis
+ ea-del-espacio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parsifal ANT (Ópera)
+DTSTART;VALUE=DATE-TIME:20151206T200000Z
+DTEND;VALUE=DATE-TIME:20151206T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/parsifal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parsifal AV (Ópera)
+DTSTART;VALUE=DATE-TIME:20151209T230000Z
+DTEND;VALUE=DATE-TIME:20151210T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/parsifal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parsifal ANN (Ópera)
+DTSTART;VALUE=DATE-TIME:20151211T230000Z
+DTEND;VALUE=DATE-TIME:20151212T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/opera/parsifal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concurso "25 años de Creación" (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151217T230000Z
+DTEND;VALUE=DATE-TIME:20151218T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/con
+ curso-25-anos-de-creacion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concurso "25 años de Creación" (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151218T230000Z
+DTEND;VALUE=DATE-TIME:20151219T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/con
+ curso-25-anos-de-creacion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concurso "25 años de Creación" (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151219T230000Z
+DTEND;VALUE=DATE-TIME:20151220T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/con
+ curso-25-anos-de-creacion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto Extraordinario Nº 6 (Orquesta Estable)
+DTSTART;VALUE=DATE-TIME:20151219T230000Z
+DTEND;VALUE=DATE-TIME:20151220T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/con
+ curso-25-anos-de-creacion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concurso "25 años de Creación" (Centro de Experimentación)
+DTSTART;VALUE=DATE-TIME:20151220T200000Z
+DTEND;VALUE=DATE-TIME:20151220T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/centro-de-experimentacion/con
+ curso-25-anos-de-creacion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ana Karenina AV (Ballet)
+DTSTART;VALUE=DATE-TIME:20151220T200000Z
+DTEND;VALUE=DATE-TIME:20151220T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/ana-karenina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ana Karenina AN (Ballet)
+DTSTART;VALUE=DATE-TIME:20151222T230000Z
+DTEND;VALUE=DATE-TIME:20151223T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/ana-karenina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ana Karenina FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20151223T230000Z
+DTEND;VALUE=DATE-TIME:20151224T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/ana-karenina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ana Karenina FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20151226T230000Z
+DTEND;VALUE=DATE-TIME:20151227T010000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/ana-karenina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ana Karenina FE (Ballet)
+DTSTART;VALUE=DATE-TIME:20151227T200000Z
+DTEND;VALUE=DATE-TIME:20151227T220000Z
+DESCRIPTION:http://www.teatrocolon.org.ar/es/ballet/ana-karenina
+END:VEVENT
+END:VCALENDAR

@@ -14,7 +14,10 @@ class TeatroColonEvent(object):
         self.name = name
         self.section = section
         self.start_time = start_time
-        self.url = DOMAIN + url
+        if url:
+            self.url = DOMAIN + '/es' + url
+        else:
+            self.url = None
 
         if WRITE_AS_UTC:
             self.start_time = pytz.utc.normalize(self.start_time.astimezone(pytz.utc))
@@ -55,14 +58,14 @@ def get_months():
 
 def _get_dt(month, day, time):
     rdate = re.compile('[^ ]* (?P<day>[0-9]*)')
-    rtime = re.compile('([0-9]{1,2}):([0-9]{1,2}) (am|pm)')
+    rtime = re.compile('([0-9]{1,2}).([0-9]{1,2})hs')
     day = int(rdate.match(day).groups()[0])
     time = rtime.match(time).groups()
     hour = int(time[0])
-    if 'pm' in time:
-        hour += 12
-    if hour == 24:
-        hour = 0
+    #if 'pm' in time:
+    #    hour += 12
+    #if hour == 24:
+    #    hour = 0
     minute = int(time[1])
 
     dt = datetime.datetime(year=datetime.date.today().year,
