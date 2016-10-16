@@ -1,7 +1,8 @@
 agenda-teatro-colon-a-ical
 ==========================
 
-= DEPRECADO
+DEPRECADO
+=========
 Hay ahora una versión oficial: http://www.teatrocolon.org.ar/es/temporada/2016/temporada%202016
 Link directo: http://bit.ly/tcc16
 
